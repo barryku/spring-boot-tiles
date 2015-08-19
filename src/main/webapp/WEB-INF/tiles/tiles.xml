@@ -4,8 +4,8 @@
 
 <tiles-definitions>
 	<!-- Templates -->
-	<definition name="baseLayout" template="/WEB-INF/tiles/base-layout.jsp">
-		<put-attribute name="header" value="/WEB-INF/tiles/header.jsp" />
+	<definition name="baseLayout" template="/WEB-INF/jsp/layout/base-layout.jsp">
+		<put-attribute name="header" value="/WEB-INF/jsp/layout/header.jsp" />
 		<put-attribute name="body" value="" />
 	</definition>
 
