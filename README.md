@@ -3,4 +3,4 @@ Minimal Spring Boot application with Tiles integration.  To run the application,
 
 mvn clean spring-boot:run
 
-
+open http://localhost:8085 in browser
